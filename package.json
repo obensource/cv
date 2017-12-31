@@ -1,0 +1,15 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "my cv generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Michel <obensource@benmichel.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mdpdf": "^1.5.1",
+    "style.css": "^1.0.0-beta-1"
+  }
+}

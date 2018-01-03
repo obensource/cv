@@ -7,4 +7,4 @@
 
 To generate, run: `npm install && mdpdf cv.md --style styles.css && open cv.pdf`
 
-<br />*Thanks to @ungoldman for the markdown-conversion inspiration*
+<br />*Thanks to [@ungoldman](https://github.com/ungoldman) for the markdown-conversion inspiration*

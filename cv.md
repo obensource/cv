@@ -1,7 +1,7 @@
 
 ### **Ben Michel**
 
-**Software Engineer & Experience Producer**, in Portland, Oregon.<br />
+**Software Engineer & Experience Producer** in Portland, Oregon.<br />
 **Contact**: obensource@benmichel.com - [@obensource](https://twitter.com/obensource) - 503.575.6086<br />
 **Skill set**: JavaScript, Node.js, Electron, React/Redux, HTML, CSS, & Open Source
 

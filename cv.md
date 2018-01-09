@@ -1,4 +1,3 @@
-
 ### **Ben Michel**
 
 **Software Engineer & Experience Producer** in Portland, Oregon.<br />

@@ -1,6 +1,6 @@
-## Personal CV generator
+## Personal CV & Cover Letter generator
 
-**Generating my CV utilizing:**
+**Generating my documents utilizing:**
 * [mdpfd](https://github.com/bluehatbrit/mdpdf)
 * [style.css](https://github.com/ungoldman/style.css)
 * [node-sass](https://github.com/sass/node-sass)

@@ -38,7 +38,7 @@
 
 #### Education
 * **Computer Science:** Much of the coursework for a B.S. completed
-2011-2014, Portland Communitee College (PSU Transfer Degree)
+2011-2014, Portland Community College (PSU Transfer Degree)
 * **A.S., General Studies** - 2012, Portland Community College
 
 #### Volunteer Work

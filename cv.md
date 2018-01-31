@@ -43,7 +43,7 @@
 
 #### Volunteer Work
 
-**[Node.js](https://github.com/nodejs)** **[communitee committee](https://github.com/nodejs/community-committee) member candidate** <small>(October 2017 - Present)</small>
+**[Node.js](https://github.com/nodejs)** **[communitee committee](https://github.com/nodejs/community-committee) member** <small>(October 2017 - Present)</small>
 **[PDXNode](http://pdxnode.org/)** **lead organizer** <small>(August 2016 - Present)</small>
 **[WebAudioPDX](https://github.com/WebAudioPDX/webaudiopdx)** **founder** <small>(May 2017 - Present)</small>
 **[Donut.js](http://donutjs.club)** **co-organizer** <small>(January 2016 - April 2017)</small>

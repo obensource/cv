@@ -1,3 +1,5 @@
+<img src="https://i.imgur.com/yLiqEJr.png" width="100px" /> <img src="https://i.imgur.com/yLiqEJr.png" width="200px" /><img src="https://i.imgur.com/yLiqEJr.png" width="300px" />
+
 ## Personal CV & Cover Letter generator
 
 **Generating my documents utilizing:**

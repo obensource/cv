@@ -324,6 +324,7 @@ hr::after {
 }
 
 img {
+  margin-left: 97px;
   border-style: none;
   border: 0;
   max-width: 100%;

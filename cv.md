@@ -48,9 +48,9 @@ Developer Experience, Product Strategy, Community Development, Event Organizatio
 
 #### Volunteer Work
 
-**[OpenJS Foundation](https://openjsf.org/)** **[Cross Project Council](https://github.com/openjs-foundation/cross-project-council) regular member** <small>(January 2018 - Present)</small>
-**[Node.js](https://github.com/nodejs)** **[Communitee Committee](https://github.com/nodejs/community-committee) member** <small>(October 2017 - Present)</small>
-**[PDXNode](http://pdxnode.org/)** **lead organizer** <small>(August 2016 - Present)</small>
-**[Donut.js](http://donutjs.club)** **co-organizer** <small>(January 2016 - April 2017)</small>
-**[WebAudioPDX](https://github.com/WebAudioPDX/webaudiopdx)** **founder** <small>(May 2017 - April 2018)</small>
-
+**[OpenJS Foundation](https://openjsf.org/)**: **[Cross Project Council](https://github.com/openjs-foundation/cross-project-council) regular member** <small>(January 2018 - Present)</small>
+**[Node.js](https://github.com/nodejs)**: **[Communitee Committee](https://github.com/nodejs/community-committee) member, [Internationalization](https://github.com/nodejs/i18n) champion** <small>(October 2017 - Present)</small>
+**[Unicode Consortium](https://home.unicode.org/)**: **[OpenJS Foundation](https://github.com/openjs-foundation/standards/issues/43) liaison** <small>(June 2020 - Present)</small>
+**[PDXNode](http://pdxnode.org/)**: **lead organizer** <small>(August 2016 - Present)</small>
+**[Donut.js](http://donutjs.club)**: **co-organizer** <small>(January 2016 - April 2017)</small>
+**[WebAudioPDX](https://github.com/WebAudioPDX/webaudiopdx)**: **founder** <small>(May 2017 - April 2018)</small>
